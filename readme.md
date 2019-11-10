@@ -46,3 +46,5 @@ Después que vean las dos, agreguen la clase "lista" a las listas.
 - Y verificar si la propiedad textContent es igual a Valentina, y en ese caso, el textContent del span tiene que ser *'Tutora: '*, y en el resto de los casos *'Mentor: '*.
 
 - Después que está creado hay que añadirselo al comienzo del elemento, tiene que quedar: **Mentor:** Iván.
+
+- Otra cosa, habrá algún método para ordenar las listas, y que salgan en orden alfabético? creo que el método era **sort()**, por ahí mdn tiene más información al respecto.
