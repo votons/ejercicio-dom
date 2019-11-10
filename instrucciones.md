@@ -18,22 +18,22 @@
 2. Dentro de cada div, debe haber una lista. Que contendrá tantos *li* como mentores/tutores, o alumnos haya.
 
 - **Cómo podemos hacer para recorrer la lista?**
-- **qué método/s podemos usar para crear elementos del dom? y para añadir texto?**
+- **Qué método/s podemos usar para crear elementos del dom? y para añadir texto?**
 
 3. Dentro de cada div, debe haber un encabezado que tenga el texto correspondiente: Mentores y Tutores o Alumnos, según corresponda.
 
 4. Añadimos los elementos al DOM.
 
-- **qué método/s podemos usar para añadir elementos al dom?**
-- **podemos añadir un elemento antes o después que otro? y si quiero que sea el primero?**
-- **tenemos que escribir 100 veces estos métodos? o podríamos crear una función?**
+- **Qué método/s podemos usar para añadir elementos al dom?**
+- **Podemos añadir un elemento antes o después que otro? y si quiero que sea el primero?**
+- **Tenemos que escribir 100 veces estos métodos? o podríamos crear una función?**
 
 ### Arreglos, perdón me olvide unas cosas.
 
-1. En los divs que creamos, tenemos que agregarles el atributo ID, para poder agregarlo sería buena idea investigar un poco sobre atributos. Busquen en mdn la propiedad Element.id. Luego le agregan a cada div su atributo correspondiente: mentores en el primer caso, y alumnos en el segundo.
+1. En los divs que creamos, tenemos que agregarles el atributo ID, para poder agregarlo sería buena idea investigar un poco sobre atributos. Busquen en mdn la propiedad **Element.id**. Luego le agregan a cada div su atributo correspondiente: mentores en el primer caso, y alumnos en el segundo.
 
-2. También hay que añadir la clase lista a cada una de las listas! Podrían buscar en MDN las propiedades Element.className y Element.classList.
-Después que vean las dos, agreguen la clase lista a las listas.
+2. También hay que añadir la clase lista a cada una de las listas! Podrían buscar en MDN las propiedades **Element.className** y **Element.classList**.
+Después que vean las dos, agreguen la clase "lista" a las listas.
 
 3. Por último, me olvidé también de agregar en la lista de mentores, si es un mentor o tutor! 
 
