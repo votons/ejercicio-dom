@@ -41,8 +41,8 @@ Después que vean las dos, agreguen la clase "lista" a las listas.
 
 - Después recorrerlo de alguna forma.
 
-- Por cada uno deben crear una etiqueta 'span', que tiene que tener la clase *text-bold*.
+- Por cada uno deben crear una etiqueta **'span'**, que tiene que tener la clase *text-bold*.
 
-- Y verificar si la propiedad textContent es igual a Valentina, y en ese caso, el textContent del span tiene que ser 'Tutora: ', y en el resto de los casos 'Mentor: '.
+- Y verificar si la propiedad textContent es igual a Valentina, y en ese caso, el textContent del span tiene que ser *'Tutora: '*, y en el resto de los casos *'Mentor: '*.
 
-- Después que está creado hay que añadirselo al comienzo del elemento, tiene que quedar: **Mentor:** Ivan.
+- Después que está creado hay que añadirselo al comienzo del elemento, tiene que quedar: **Mentor:** Iván.
