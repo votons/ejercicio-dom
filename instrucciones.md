@@ -1,4 +1,4 @@
-## ejercicio mi clase de DWFS.
+# Ejercicio mi clase de DWFS.
 
 ### Creando y conectando los documentos de js y html.
 
